@@ -2,11 +2,16 @@
 
 ## scope:
 
-managing patients, managing rooms. by occupancy and urgency
+managing patients and rooms -
+triage by symptoms to urgency level,
+assign to room by urgent/queue,
+alert staff for critical patient
+discharging patients,
 
 ## out:
 
-users management, authorization/authentication,
+users management,
+authorization/authentication,
 
 ## Actors & Context:
 
